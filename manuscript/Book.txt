@@ -1,4 +1,9 @@
-chapter1.txt
-chapter2.txt
-chapter3.txt
-chapter4.txt
+frontmatter:
+Acknowledgments.txt
+Preface.txt
+Introduction.txt
+mainmatter:
+chapter01.txt
+chapter02.txt
+chapter03.txt
+chapter04.txt
